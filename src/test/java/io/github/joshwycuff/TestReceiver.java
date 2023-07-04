@@ -1,4 +1,4 @@
-package org.jw.messaging;
+package io.github.joshwycuff;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

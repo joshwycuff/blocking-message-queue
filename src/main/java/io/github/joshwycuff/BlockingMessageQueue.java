@@ -1,4 +1,4 @@
-package org.jw.messaging;
+package io.github.joshwycuff;
 
 import java.util.ArrayList;
 import java.util.List;

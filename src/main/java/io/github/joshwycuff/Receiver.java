@@ -1,4 +1,4 @@
-package org.jw.messaging;
+package io.github.joshwycuff;
 
 import java.util.NoSuchElementException;
 import java.util.Optional;

@@ -2,7 +2,7 @@ plugins {
     id("java")
 }
 
-group = "org.jw.messaging"
+group = "io.github.joshwycuff"
 version = "1.0-SNAPSHOT"
 
 repositories {
